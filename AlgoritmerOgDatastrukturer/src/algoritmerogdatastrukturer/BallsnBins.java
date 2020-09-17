@@ -63,6 +63,6 @@ public class BallsnBins {
         return bins;
     }
     // opgave 4
-    
+    // Der er ca halvt så mange bolde i bins'ne når man bruger powerOfTwo metoden for at lægge dem i, så det kunne tyde på at formlen for bigO holder
 }
 
